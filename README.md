@@ -1,5 +1,4 @@
-# landing-p2# 
-Landing Page Project
+# Landing Page Project
 
 This project demonstrates real-world scenarios of manipulating the DOM.
 
